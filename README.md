@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Nihal,
 🎓 B.E. Computer Science & Engineering Graduate
 
 📱 Android Development Intern with experience in building mobile applications using Android Studio, Kotlin, Jetpack Compose, and Room Database.
