@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Nihaaaal10/Nihaaaal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science & Engineering Graduate
 
-Here are some ideas to get you started:
+📱 Android Development Intern with experience in building mobile applications using Android Studio, Kotlin, Jetpack Compose, and Room Database.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about software development and continuously learning new tools and technologies.
+
+🚀 Currently exploring Java, Data Structures & Algorithms, and modern software engineering practices.
+
+🔧 Tech Stack: Kotlin • Java • Android Studio • Jetpack Compose • Room Database • Git • GitHub
+
+🌱 Open to Entry-level software development opportunities.
+
+📫 Let's connect and build something amazing!
